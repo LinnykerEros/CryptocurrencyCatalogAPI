@@ -3,3 +3,4 @@ src/assets/*
 yarn.lock
 .gitignore
 package-lock.json
+package.json
